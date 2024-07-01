@@ -5,11 +5,13 @@ Markdown,文本修饰语言，用特殊符号修饰正文效果
 ###	三级标题	\###
 ####	四级标题	\####
 #####	五级标题	\#####
-<br>
+
 ## 正文内容
-### 换行：\<br\> <br>
-### 修饰文本：<br>
-无修饰：testtext <br>
-斜体：*testtext* <br>
-粗体：**testtext** <br>
-斜粗体：***testtext*** <br>
+### 换行：\<br\>
+
+### 修饰文本:
+无修饰：testtext
+斜体：*testtext* 
+粗体：**testtext**
+斜粗体：***testtext***
+删除线：~~testtext~~
