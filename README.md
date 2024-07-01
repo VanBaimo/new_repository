@@ -10,8 +10,8 @@ Markdown,文本修饰语言，用特殊符号修饰正文效果
 ### 换行：\<br\>
 
 ### 修饰文本:
-无修饰：testtext
-斜体：*testtext* 
-粗体：**testtext**
-斜粗体：***testtext***
-删除线：~~testtext~~
+无修饰：testtext<br>
+斜体：*testtext* 	\*文本\*<br>
+粗体：**testtext**	\*\*文本\*\*<br>
+斜粗体：***testtext***	\*\*\*文本\*\*\*<br>
+删除线：~~testtext~~	\~\~文本\~\~<br>
