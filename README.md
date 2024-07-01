@@ -81,9 +81,9 @@ Markdown,文本修饰语言，用特殊符号修饰正文效果
 ```
 
 ### 超链接技术
-[Github](https://www.github.com"点击访问")
+[Github](https://www.github.com "点击访问")
 
 ### 插入图片
-![图片](E://wgw//图片//c.jpg"放大查看")
+![图片](E://wgw//图片//c.jpg "放大查看")
 
 
